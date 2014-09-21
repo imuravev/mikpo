@@ -7,6 +7,12 @@ using System.Threading.Tasks;
 
 namespace mikpo.Classes
 {
+    /// <summary>
+    /// 
+    /// Муравьев Игорь Александрович
+    /// 21.09.2014
+    /// 
+    /// </summary>
     public class TriangleInfo
     {
         /// <summary>
@@ -56,7 +62,9 @@ namespace mikpo.Classes
                             double alpha = TriangleInfo.getAngle(res[1], c, res[0]);
 
                             sw.WriteLine(String.Format("{0};{1};{2}", res[0], res[1], c));
-                            Console.WriteLine(String.Format("Строка {2}: {0};{1} // Угол между сторонами a и с ; b и с", betta, alpha,currentRowNum));
+                            Console.WriteLine("**********Строка " + currentRowNum.ToString() + "************");
+                            Console.WriteLine(String.Format("{0};{1} // Угол между сторонами a и с ; b и с", betta, alpha));
+                            Console.WriteLine("******************************");
                         }
                         catch(Exception ex)
                         {
