@@ -64,7 +64,6 @@ namespace mikpo.Classes
                             sw.WriteLine(String.Format("{0};{1};{2}", res[0], res[1], c));
                             Console.WriteLine("**********Строка " + currentRowNum.ToString() + "************");
                             Console.WriteLine(String.Format("{0};{1} // Угол между сторонами a и с ; b и с", betta, alpha));
-                            Console.WriteLine("******************************");
                         }
                         catch(Exception ex)
                         {
@@ -74,7 +73,6 @@ namespace mikpo.Classes
                             Console.WriteLine(ex.Message);
                             Console.WriteLine(ex.Source);
                             Console.WriteLine(ex.StackTrace);
-                            Console.WriteLine("******************************");
                         }
                     }
                 }

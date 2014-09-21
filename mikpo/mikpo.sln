@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mikpo", "mikpo\mikpo.csproj", "{45897749-DB4F-4CC5-9D94-6C87712A2E6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mikpoTest", "..\..\..\..\Documents\Visual Studio 2013\Projects\mikpo\mikpoTest\mikpoTest.csproj", "{155B2C45-D390-4584-ACDC-0E8F6E50AE05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{45897749-DB4F-4CC5-9D94-6C87712A2E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45897749-DB4F-4CC5-9D94-6C87712A2E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45897749-DB4F-4CC5-9D94-6C87712A2E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{155B2C45-D390-4584-ACDC-0E8F6E50AE05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155B2C45-D390-4584-ACDC-0E8F6E50AE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155B2C45-D390-4584-ACDC-0E8F6E50AE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155B2C45-D390-4584-ACDC-0E8F6E50AE05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

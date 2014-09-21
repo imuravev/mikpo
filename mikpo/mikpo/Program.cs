@@ -23,7 +23,6 @@ namespace mikpo
                 Console.WriteLine(ex.Message);
                 Console.WriteLine(ex.Source);
                 Console.WriteLine(ex.StackTrace);
-                Console.WriteLine("******************************");
             }
         }
     }
