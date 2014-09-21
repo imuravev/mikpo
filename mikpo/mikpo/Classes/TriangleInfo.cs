@@ -56,6 +56,7 @@ namespace mikpo.Classes
                             double alpha = TriangleInfo.getAngle(res[1], c, res[0]);
 
                             sw.WriteLine(String.Format("{0};{1};{2}", res[0], res[1], c));
+                            Console.WriteLine(String.Format("Строка {2}: {0};{1} // Угол между сторонами a и с ; b и с", betta, alpha,currentRowNum));
                         }
                         catch(Exception ex)
                         {
