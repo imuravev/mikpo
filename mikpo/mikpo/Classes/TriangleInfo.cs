@@ -20,7 +20,7 @@ namespace mikpo.Classes
         /// </summary>
         /// <param name="s"> Входная строка. Должна иметь формат a;b;alpha</param>
         /// <returns>Массив значений типа double </returns>
-        private static double[] parseString(string s)
+        public static double[] parseString(string s)
         {
             double[] res = null;
             string[] buf1 = s.Split(';');
