@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mikpo", "mikpo\mikpo.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mikpoTests", "mikpoTests\mikpoTests.csproj", "{2D8F49AE-47DD-4B34-87E6-D24E70159B71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mikpo1", "D:\Documents\mikpo1\mikpo1\mikpo1.csproj", "{92923CE3-BDE7-4F62-9AC6-DEFBFB95C82F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mikpo1", "mikpo1\mikpo1\mikpo1.csproj", "{92923CE3-BDE7-4F62-9AC6-DEFBFB95C82F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
