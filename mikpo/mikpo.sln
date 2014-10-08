@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mikpoTests", "mikpoTests\mi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mikpo1", "mikpo1\mikpo1\mikpo1.csproj", "{92923CE3-BDE7-4F62-9AC6-DEFBFB95C82F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiKPO_2", "..\MiKPO_2\MiKPO_2\MiKPO_2.csproj", "{B10FA0FC-0516-4584-A5CD-E28FA0E8CF68}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,16 +49,6 @@ Global
 		{92923CE3-BDE7-4F62-9AC6-DEFBFB95C82F}.Release|Mixed Platforms.Build.0 = Release|x86
 		{92923CE3-BDE7-4F62-9AC6-DEFBFB95C82F}.Release|x86.ActiveCfg = Release|x86
 		{92923CE3-BDE7-4F62-9AC6-DEFBFB95C82F}.Release|x86.Build.0 = Release|x86
-		{B10FA0FC-0516-4584-A5CD-E28FA0E8CF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B10FA0FC-0516-4584-A5CD-E28FA0E8CF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B10FA0FC-0516-4584-A5CD-E28FA0E8CF68}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{B10FA0FC-0516-4584-A5CD-E28FA0E8CF68}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{B10FA0FC-0516-4584-A5CD-E28FA0E8CF68}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{B10FA0FC-0516-4584-A5CD-E28FA0E8CF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B10FA0FC-0516-4584-A5CD-E28FA0E8CF68}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B10FA0FC-0516-4584-A5CD-E28FA0E8CF68}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{B10FA0FC-0516-4584-A5CD-E28FA0E8CF68}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{B10FA0FC-0516-4584-A5CD-E28FA0E8CF68}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
